@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7a29b91.css",
+    "main.js": "/static/js/main.2aaa7c66.js",
+    "static/media/home.jpg": "/static/media/home.bcdac2eb6d00f0b41018.jpg",
+    "static/media/land2.jpg": "/static/media/land2.ba6e4a998bc51e5d4c1f.jpg",
+    "static/media/global.jpg": "/static/media/global.7c7cf65de4092faaeae4.jpg",
+    "static/media/stamp1.jpg": "/static/media/stamp1.ebb08acaa89fa52758ab.jpg",
+    "static/media/buy.png": "/static/media/buy.f7bee426612ba53a3d23.png",
+    "static/media/metamask.png": "/static/media/metamask.8113df95ccec33582c5b.png",
+    "static/media/transfer.png": "/static/media/transfer.baad2f84423c114e8fe2.png",
+    "static/media/payment.png": "/static/media/payment.6850ce5bfba72eeae45c.png",
+    "static/media/land.png": "/static/media/land.be719781435b4a48f234.png",
+    "static/media/vuser.png": "/static/media/vuser.6d7d0e8f7a893ccbfd7d.png",
+    "static/media/register.png": "/static/media/register.41348e31e70d474b347c.png",
+    "static/media/logo.png": "/static/media/logo.ff31a1825070c582758a.png",
+    "static/media/logo3.png": "/static/media/logo3.b50434f316077ea45d8f.png",
+    "static/media/logo2.png": "/static/media/logo2.42a109c5f49d90bc2c20.png",
+    "static/media/inspector1.png": "/static/media/inspector1.d5761eae5b9e20156bd7.png",
+    "index.html": "/index.html",
+    "main.f7a29b91.css.map": "/static/css/main.f7a29b91.css.map",
+    "main.2aaa7c66.js.map": "/static/js/main.2aaa7c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a29b91.css",
+    "static/js/main.2aaa7c66.js"
+  ]
+}
